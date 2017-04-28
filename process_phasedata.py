@@ -42,8 +42,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("telescope", default='GPI')
     parser.add_argument("filename")
-    parser.add_argument("-d", "--directory", 
-                        default='/nfs/slac/g/ki/ki19/lsst/snyder18')
+    parser.add_argument("directory")
 
     args = parser.parse_args()
     directory = args.directory
