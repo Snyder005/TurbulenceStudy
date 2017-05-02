@@ -1,4 +1,17 @@
 #!/usr/bin/env python
+"""
+Script to process a single GPI phase data file.
+
+This script performs a series of basic data analysis functions on a reduced GPI 
+phase data file.  A Zernike decomposition is performed on the masked data cube
+and set of time series and PSDs are generated and saved to disk, along with the
+corresponding images of the graphs.
+
+Todo:
+    * Rewrite the subdirectory tree creation to be more flexible.
+"""
+
+###############################################################################
 
 import os
 import argparse
@@ -16,6 +29,15 @@ from Wavefront import TELESCOPE_DICT
 from Wavefront import waveplot, utils
 
 def main(datafile, telescope_name, directory, save_images=True):
+    """Perform Zernike decomposition and save data products to a specific
+    subdirectory tree.
+
+    Args:
+        datafile (str): GPI reduced data file name.
+        telescope_name (str): Name of built-in telescope parameters to use.
+        directory (str): Name of main directory to build subdirectory tree in.
+        save_images (bool): Specify whether to save graph images.
+    """
 
     ## File path dictionary
     file_dict = utils.filepath_library(datafile, directory, telescope_name)
@@ -40,9 +62,10 @@ def main(datafile, telescope_name, directory, save_images=True):
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("telescope", default='GPI')
-    parser.add_argument("filename")
-    parser.add_argument("directory")
+    parser.add_argument("telescope", default='GPI', 
+                        help='Built-in telescope parameters to use')
+    parser.add_argument("filename", help='Name of data file.')
+    parser.add_argument("directory", help='Main directory to perform all analysis')
 
     args = parser.parse_args()
     directory = args.directory
