@@ -1,0 +1,1324 @@
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+/u/ki/snyder18/.local/lib/python2.7/site-packages/pyfits/file.py:339: UserWarning: Overwriting existing file './aratmos_rate1000.0_exptime15.0_r00.1_v15.0.fits'.
+  warnings.warn("Overwriting existing file %r." % self.name)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+/u/ki/snyder18/.local/lib/python2.7/site-packages/pyfits/file.py:339: UserWarning: Overwriting existing file './aratmos_rate1000.0_exptime15.0_r00.2_v16.0.fits'.
+  warnings.warn("Overwriting existing file %r." % self.name)
+[ 0.1  0.2]
+[ 15.  16.]
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+
+------------------------------------------------------------
+Sender: LSF System <lsf@fell0216>
+Subject: Job 7112: <python atmos_test.py> in cluster <slac> Done
+
+Job <python atmos_test.py> was submitted from host <rhel6-64m> by user <snyder18> in cluster <slac>.
+Job was executed on host(s) <fell0216>, in queue <short>, as user <snyder18> in cluster <slac>.
+</u/ki/snyder18> was used as the home directory.
+</nfs/slac/g/ki/ki19/lsst/snyder18/Sim> was used as the working directory.
+Started at Wed Jul  6 11:55:44 2016
+Results reported on Wed Jul  6 11:57:19 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python atmos_test.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   52.21 sec.
+    Max Memory :                                 1680 MB
+    Average Memory :                             821.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   94 sec.
+    Turnaround time :                            331 sec.
+
+The output (if any) is above this job summary.
+
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hequ0002>
+Subject: Job 9458: <python atmos_test.py> in cluster <slac> Done
+
+Job <python atmos_test.py> was submitted from host <rhel6-64m> by user <snyder18> in cluster <slac>.
+Job was executed on host(s) <hequ0002>, in queue <medium>, as user <snyder18> in cluster <slac>.
+</u/ki/snyder18> was used as the home directory.
+</nfs/slac/g/ki/ki19/lsst/snyder18/Sim> was used as the working directory.
+Started at Wed Jul  6 12:01:03 2016
+Results reported on Wed Jul  6 12:25:52 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python atmos_test.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1178.26 sec.
+    Max Memory :                                 1091 MB
+    Average Memory :                             821.58 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   1702 MB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   1488 sec.
+    Turnaround time :                            1501 sec.
+
+The output (if any) is above this job summary.
+
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+make_ar_atmos_test.py:134: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+Layer 1 alpha created
+Done with Layer 1
+Done
+
+
+------------------------------------------------------------
+Sender: LSF System <lsf@fell0189>
+Subject: Job 16641: <python atmos_test.py> in cluster <slac> Done
+
+Job <python atmos_test.py> was submitted from host <rhel6-64m> by user <snyder18> in cluster <slac>.
+Job was executed on host(s) <fell0189>, in queue <medium>, as user <snyder18> in cluster <slac>.
+</u/ki/snyder18> was used as the home directory.
+</nfs/slac/g/ki/ki19/lsst/snyder18/Sim> was used as the working directory.
+Started at Wed Jul  6 12:31:53 2016
+Results reported on Wed Jul  6 13:07:05 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python atmos_test.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1995.66 sec.
+    Max Memory :                                 8684 MB
+    Average Memory :                             5508.60 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   2111 sec.
+    Turnaround time :                            2118 sec.
+
+The output (if any) is above this job summary.
+

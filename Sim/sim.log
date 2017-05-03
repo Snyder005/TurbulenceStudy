@@ -1,0 +1,95 @@
+make_ar_atmos.py:120: RuntimeWarning: divide by zero encountered in power
+  (fx**2. + fy**2.)**(-11.0/12.0)*bign*np.sqrt(np.sqrt(2.))/screensize_meters)
+/u/ki/snyder18/.local/lib/python2.7/site-packages/pyfits/file.py:339: UserWarning: Overwriting existing file './aratmos_rate1000.0_exptime60.0_r00.5_v16.5-layer1.fits'.
+  warnings.warn("Overwriting existing file %r." % self.name)
+close failed in file object destructor:
+8.4
+Layer 1 alpha created
+Writing layer 1 file
+Done with Layer 1
+Layer 2 alpha created
+Writing layer 2 file
+Done with Layer 2
+Layer 3 alpha created
+Writing layer 3 file
+Done with Layer 3
+Layer 4 alpha created
+Writing layer 4 file
+Done with Layer 4
+Layer 5 alpha created
+Writing layer 5 file
+Done with Layer 5
+Layer 6 alpha created
+Writing layer 6 file
+Done with Layer 6
+Layer 7 alpha created
+Writing layer 7 file
+Done with Layer 7
+Layer 8 alpha created
+Writing layer 8 file
+IOError: [Errno 122] Disk quota exceeded
+close failed in file object destructor:
+Done with Layer 8
+Layer 9 alpha created
+Writing layer 9 file
+IOError: [Errno 122] Disk quota exceeded
+close failed in file object destructor:
+Done with Layer 9
+Layer 10 alpha created
+Writing layer 10 file
+IOError: [Errno 122] Disk quota exceeded
+close failed in file object destructor:
+Done with Layer 10
+Layer 11 alpha created
+Writing layer 11 file
+IOError: [Errno 122] Disk quota exceeded
+close failed in file object destructor:
+Done with Layer 11
+Layer 12 alpha created
+Writing layer 12 file
+IOError: [Errno 122] Disk quota exceeded
+Done with Layer 12
+Layer 13 alpha created
+Traceback (most recent call last):
+  File "make_ar_atmos.py", line 343, in <module>
+    make_ar_atmos(exptime, rate, alpha_mag, n, m, nofroflo, dept, r0, v) 
+  File "make_ar_atmos.py", line 163, in make_ar_atmos
+    phase[:,:,i,t] = wf
+KeyboardInterrupt
+
+------------------------------------------------------------
+Sender: LSF System <lsf@hequ0019>
+Subject: Job 617193: <python make_ar_atmos.py 60 1000 0.999 48 1> in cluster <slac> Exited
+
+Job <python make_ar_atmos.py 60 1000 0.999 48 1> was submitted from host <rhel6-64d> by user <snyder18> in cluster <slac>.
+Job was executed on host(s) <hequ0019>, in queue <medium>, as user <snyder18> in cluster <slac>.
+</u/ki/snyder18> was used as the home directory.
+</u/ki/snyder18/DES/kolmogorov_sim> was used as the working directory.
+Started at Wed Jun  1 16:08:33 2016
+Results reported on Wed Jun  1 17:24:18 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python make_ar_atmos.py 60 1000 0.999 48 1
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   886.37 sec.
+    Max Memory :                                 21004 MB
+    Average Memory :                             17603.56 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   41530 MB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   4007 sec.
+    Turnaround time :                            4546 sec.
+
+The output (if any) is above this job summary.
+

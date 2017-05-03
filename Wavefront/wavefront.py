@@ -1,3 +1,11 @@
+"""
+Submodule containing main classes for wavefront phase analysis.
+
+This module contains the main classes that are used to define wavefront phase
+objects and perform simple Zernike decomposition analysis. 
+"""
+
+
 import numpy as np
 import sys
 import copy
